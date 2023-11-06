@@ -173,25 +173,37 @@ border-radius: 10px;
   font-size: 50px;
   color: rgb(45, 81, 148);
   background-color: rgb(223, 235, 219);
-  margin-bottom: 2px;
+  margin-bottom: 20px;
+
 }
 .ourtext{
   font-size: 50px;
 }
 .Our{
   display: flex;
+  margin-bottom: 100px;
+  margin-right:250px;
 }
 .ourtext1{
   font-size: 20px;
 }
 .a1{
 margin-left: 280px;
+background-color: rgb(226, 205, 177);
+border-radius: 150px;
+height: 140px;
+width: 300px;
 }
 .a2{
   margin-left: 40px;
+  background-color: rgb(226, 205, 177);
+  border-radius: 150px;
+  height: 140px;
+  width: 300px;
 }
 .Viewmore
 {
+  margin-top: 50px;
   background-color: #5673a8;
   color: aliceblue;
   border-radius: 20px;
@@ -206,7 +218,7 @@ margin-left: 280px;
 
 .latimage{
   width: 30%;
-  margin-left: 50px;
+  margin-left: 80px;
   border-radius: 20px;
 }
 .latimage:hover{

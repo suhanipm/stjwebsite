@@ -9,6 +9,7 @@ import Visionmission from './components/Visionmission';
 import Ourstr from './components/Ourstr';
 import Latest from './components/Latest';
 import View from './components/View';
+
 function App() {
   return (
 

@@ -17,7 +17,7 @@ function Ourstr(){
         </div>
         <div className="a2">
         <p className="ourtext">186+</p>
-        <p className="ourtext1">PLacements</p>
+        <p className="ourtext1">Pacements</p>
         </div>
         </div>
     </div>);

@@ -7,7 +7,7 @@ function Fourth(){
     return( 
 <div className='join'>
 <div className='stj12'>
-    <img alt="substj1" src={substj} className='stj1'></img>
+    <img alt="sub stj1" src={substj} className='stj1'></img>
     <br></br>
     <img alt="substj2" src={substj1} className='stj2'></img>
 </div>

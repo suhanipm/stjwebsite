@@ -1,7 +1,7 @@
 import stjsymbol from'../Image/stjit2.png';
 function Second(){
     return(<div className='second'>
-            <img alt="stjsym" src={stjsymbol} className='stjsymbol'></img>
+            <img alt="" src={stjsymbol} className='stjsymbol'></img>
             <div className='home'>home</div>
             <div className='home2'>About
                 <select className='About'>

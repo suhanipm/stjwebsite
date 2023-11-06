@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import Header from './components/Header';
+import Second from './components/Second';
+import Third from './components/Third';
+import Fourth from './components/Fourth';
+import Commitment from './components/Commitment';
+import Visionmission from './components/Visionmission';
+import Ourstr from './components/Ourstr';
+import Latest from './components/Latest';
+import View from './components/View';
 function App() {
   return (
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Header></Header>
+      <Second></Second>
+      <Third></Third>
+      <Fourth></Fourth>
+      <Commitment></Commitment>
+      <Visionmission></Visionmission>
+      <Ourstr></Ourstr>
+      <Latest></Latest>
+      <View></View>
+       </div>
   );
 }
 
